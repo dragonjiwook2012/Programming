@@ -1,2 +1,3 @@
 # Programming
-don't just Copy and Paste
+ 프로그래머가 꿈인 중학생입니다
+ 주로 백준과 프로그래머스의 문제를 풀고 해답을 여기에 적습니다
