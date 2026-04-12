@@ -8,6 +8,6 @@ Profile Pages
 |:--:|:--:|
 |[백준 프로필](https://www.acmicpc.net/user/kimjiwook20120817)|[프로그래머스](https://programmers.co.kr/users/profile)|
 ___
-현재 solved.ac 티어는 <color=yellow>**골드 1**<color>입니다.
+현재 solved.ac 티어는 <span style="color:yellow">**골드 1**</span>입니다.
 <img src="https://github.com/user-attachments/assets/339c4eec-fe9b-4367-b1be-c068092abc9a" width="100">  
 참고로 위의 새 사진은 제가 키우는 반려동물 입니다.
