@@ -9,4 +9,5 @@ Profile Pages
 |[백준 프로필](https://www.acmicpc.net/user/kimjiwook20120817)|[프로그래머스](https://programmers.co.kr/users/profile)|[정올 프로필](https://jungol.co.kr/account/148813)|
 ___
 현재 solved.ac 티어는 🥇**골드 1**입니다.(#GIVE_BOJ_BACK)
+
 현재 정올 티어는 **골드 4**입니다.(백준 난민이 돼서 티어가 너무 낮음...)
