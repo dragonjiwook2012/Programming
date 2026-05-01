@@ -1,7 +1,7 @@
 from collections import deque
 f,b=deque(),deque()#f:다시 실행,b:실행 취소
 n="http://www.acm.org/"#원래 사이트 주소
-while True:
+while True: 
     t=input()#명령어 입력받기
     if(t[0]=="B"):#실행취소
         if(len(b)==0):#실행취소가 불가능하면
