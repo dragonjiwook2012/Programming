@@ -15,7 +15,7 @@ def dfs(pos,i):
     cnt=1
     dx=[0,1,0,-1]
     dy=[1,0,-1,0]
-    while q:
+    while q:#다 풀고 나서 생각해냈는데 dfs는 애초에 큐를 사용하고 pop이 아니라 popleft를 사용합니다.(이상하게 풀었다는 뜻)
         d=q.pop()
         for a in range(4):
             nx,ny=d[0]+dx[a],d[1]+dy[a]
