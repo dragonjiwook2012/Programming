@@ -5,7 +5,7 @@ if(a[0]=="-"):
     is_minus=not is_minus
 if(b[0]=="-"):
     b=b[1:]
-    is_minus=not is_minus
+    is_minus=not is_minus 
 def mult():
     ansl=[]
     for i in bl:
