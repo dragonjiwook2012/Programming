@@ -11,7 +11,7 @@ def bfs(x,y):
 		px,py,h=q.popleft()
 		for i in range(4):
 			nx,ny=px+dx[i],py+dy[i]
-			if(0<=nx<n and 0<=ny<n and(nx,ny) not in visited):
+			if(0<=nx<n and 0<=ny<n and(nx,ny) not in visited): 
 				l[nx][ny]=h+1
 				q.append((nx,ny,h+1))
 				visited.add((nx,ny))
